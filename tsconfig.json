@@ -1,0 +1,24 @@
+{
+  /* Add your custom configuration here. */
+  "compilerOptions": {
+    /* Language and Environment */
+    "target": "ES2020",
+    "lib": [
+      "ES2020",
+      "ES2020.BigInt",
+      "DOM"
+    ],
+    /* Modules */
+    //    "module": "commonjs",
+    "module": "Node16",
+    "moduleResolution": "node",
+    /* Allow 'import x from y' when a module doesn't have a default export. */
+    "esModuleInterop": true,
+    /* Disable resolving symlinks to their realpath. This correlates to the same flag in node. */
+    "forceConsistentCasingInFileNames": true,
+    /* Type Checking */
+    "strict": true,
+    /* Skip type checking .d.ts files that are included with TypeScript. */
+    "skipLibCheck": true
+  }
+}

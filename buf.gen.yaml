@@ -1,0 +1,9 @@
+# Learn more: https://buf.build/docs/configuration/v2/buf-gen-yaml
+# npx buf generate
+version: v2
+inputs:
+  - directory: proto
+plugins:
+  - local: protoc-gen-es
+    out: src/assets/gen
+    opt: target=ts
