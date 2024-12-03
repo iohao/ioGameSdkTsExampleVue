@@ -40,7 +40,7 @@ The interaction files such as `actions, broadcasts, and error codes` in the `./s
 
 ### Start the ioGame game server
 
-see https://github.com/iohao/ioGameExamples/SdkExample
+see https://github.com/iohao/ioGameExamples/tree/main/SdkExample
 
 > Run SdkApplication.java
 

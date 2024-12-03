@@ -37,7 +37,7 @@ ioGame Sdk + 代码生成 = 诸多优势。
 
 ### 启动游戏服务器
 
-see https://github.com/iohao/ioGameExamples/SdkExample
+see https://github.com/iohao/ioGameExamples/tree/main/SdkExample
 
 > 运行 SdkApplication.java 启动游戏服务器
 
