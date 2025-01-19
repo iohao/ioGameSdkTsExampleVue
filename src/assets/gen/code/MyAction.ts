@@ -1,4 +1,4 @@
-// generateTime 2024-11-14 20:17:00
+// generateTime 2024-12-11 16:10:08
 // https://github.com/iohao/ioGame
 import * as ioGame from "../common_pb";
 import {toBinary} from "@bufbuild/protobuf";

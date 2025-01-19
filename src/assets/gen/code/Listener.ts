@@ -1,4 +1,4 @@
-// generateTime 2024-11-14 20:17:00
+// generateTime 2024-12-11 16:10:08
 // https://github.com/iohao/ioGame
 import * as ioGame from "../common_pb";
 import {CmdKit, ListenCommand, ResponseResult} from "iohao-sdk";
@@ -175,7 +175,7 @@ export class Listener {
     }
 
     static listener_ioGame() {
-    // all listener
+        // all listener
 
         Listener.listenBulletBroadcast(result => {
             const mergeTitle = CmdKit.toString(result.getCmdMerge());
